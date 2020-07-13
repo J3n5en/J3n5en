@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👷 I’m currently working on ThoughtWorks.
+
+
+![](https://i.loli.net/2020/07/13/GRXCterPVQaZdYE.png)
+
+#### Looks like something went wrong!
+
+We track these errors automatically, but if the problem persists feel free to contact us. In the meantime, try refreshing.
