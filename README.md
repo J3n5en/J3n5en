@@ -1,25 +1,8 @@
-### Hi there 👋
-
-<!--
-**J3n5en/J3n5en** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 👷 I’m currently working on ThoughtWorks.
+<div align="center">
+  <img width="250" height="250" src="https://i.loli.net/2020/07/13/fcvXem3bxpgID8O.png" />
+</div>
 
 
-![](https://i.loli.net/2020/07/13/GRXCterPVQaZdYE.png)
 
-#### Looks like something went wrong!
-
-We track these errors automatically, but if the problem persists feel free to contact us. In the meantime, try refreshing.
+<h1 align="center">Looks like something went wrong!</h1>
+<p align="center">We track these errors automatically, but if the problem persists feel free to contact us. In the meantime, try refreshing.</p>
