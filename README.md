@@ -1,6 +1,7 @@
 
 <div align="center">
-  Click 🐱 to check my blog.
+  Click 🐱 to check my blog.<br />
+  
   
   
   <a href="https://blog.j3n5en.com">
