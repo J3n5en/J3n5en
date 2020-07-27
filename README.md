@@ -1,6 +1,6 @@
 
 <div align="center">
-  Click 🐱 to see my blog.
+  Click 🐱 to visit my blog.🤫
   <br />
   <br />
   <br />
